@@ -11,7 +11,7 @@ compute.pod(fit)
   \item{fit}{A iCluster object}
 }
 \seealso{
-  \code{\link{iCluster}}, \code{\link{plotiCluster}}
+  \code{\link{iCluster}},\code{\link{iCluster2}}, \code{\link{plotiCluster}}
 }
 \value{
   \item{pod}{proportion of deviation from perfect block diagonal matrix}

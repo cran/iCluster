@@ -22,7 +22,7 @@ iCluster(datasets, k, lambda, scalar=FALSE, max.iter=50,epsilon=1e-3)
   \item{epsilon}{EM algorithm convegence criterion.}
 }
 \seealso{
- \code{\link{plotiCluster}}, \code{\link{compute.pod}}
+ \code{\link{breast.chr17}},\code{\link{plotiCluster}}, \code{\link{compute.pod}}
 }
 \value{
   A list with the following elements.

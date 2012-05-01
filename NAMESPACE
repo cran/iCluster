@@ -1,1 +1,1 @@
-export(compute.pod,plotiCluster,iCluster)
+export(iCluster, iCluster2, tune.iCluster2, plotRI, plotHeatmap, plotiCluster, compute.pod) 
